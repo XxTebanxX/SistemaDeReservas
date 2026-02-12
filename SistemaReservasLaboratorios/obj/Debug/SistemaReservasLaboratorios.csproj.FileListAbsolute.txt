@@ -1,0 +1,10 @@
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\bin\Debug\SistemaReservasLaboratorios.exe.config
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\bin\Debug\SistemaReservasLaboratorios.exe
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\bin\Debug\SistemaReservasLaboratorios.pdb
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.csproj.AssemblyReference.cache
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.FrmReservas.resources
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.Properties.Resources.resources
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.csproj.GenerateResource.cache
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.csproj.CoreCompileInputs.cache
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.exe
+C:\Users\pityl\OneDrive\Escritorio\proyecto programacion\proyecto programacion\SistemaReservasLaboratorios\obj\Debug\SistemaReservasLaboratorios.pdb
